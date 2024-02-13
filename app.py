@@ -102,5 +102,4 @@ def process_pptx(file_path):
 
 if __name__ == '__main__':
     app.run(debug=True)
-
-# максат пидорас и фуриеб
+# degvsivbdsi
